@@ -19,11 +19,11 @@ cd Railway-Sleeper-NDT
 ```
  
 ## 3. Install Dependencies
-- **MATLAB
+- **MATLAB**
 - Install MATLAB from MathWorks.
 - Ensure your license includes access to external toolboxes.
 
-- **k-Wave Toolbox
+- **k-Wave Toolbox**
 - Download the latest version from:[k-Wave MATLAB Toolbox](http://www.k-wave.org/)
 - Extract the folder to a location on your PC.
 - In MATLAB, add the k-Wave folder to your MATLAB path:
@@ -32,4 +32,5 @@ cd Railway-Sleeper-NDT
 addpath(genpath('path/to/k-Wave-toolbox'))
 savepath
 ```
+
 
