@@ -54,4 +54,7 @@ The MATLAB simulation uses the **k-Wave Toolbox** to model ultrasonic wave propa
 - **Realistic Cracks**
 ![Realistic Cracks](results/RealisticCracks.png)
 
+## Credits
+- Author: Shubham Asole
+- Toolbox: k-Wave MATLAB Toolbox
 
