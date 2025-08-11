@@ -44,4 +44,10 @@ The MATLAB simulation uses the **k-Wave Toolbox** to model ultrasonic wave propa
 
 ---
 
-## Repository Structure
+## Example Results
+- **No Crack**
+- ![NO Crack](results/NoCrack.png)
+
+- **Random Cracks**
+- ![Random Cracks](results/Crack.png)
+
